@@ -1,0 +1,19 @@
+{
+  "name": "GorakuSite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "stylus": "^0.62.0",
+    "vitepress": "^1.0.0-rc.31"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "@octokit/rest": "^20.0.2",
+    "@types/dom-view-transitions": "^1.0.4"
+  }
+}
