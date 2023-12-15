@@ -1,10 +1,6 @@
 <script setup>
-/// <reference types="@types/gtag.js" />
 
 import { data as release } from "../.vitepress/theme/data/release.data.mts"
-
-console.log(release.main.assets[0].browser_download_url)
-
 
 </script>
 
@@ -14,7 +10,7 @@ console.log(release.main.assets[0].browser_download_url)
 ⚠️**Goraku is currently only available on Android**⚠️
 :::
 
-You can find all Goraku releases [here](https://github.com/kuzulabz/goraku-site/releases)
+You can find all Goraku releases [here](https://github.com/KuzuLabz/GorakuSite/releases)
 
 ## Android
 
