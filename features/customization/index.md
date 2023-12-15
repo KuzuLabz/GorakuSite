@@ -75,7 +75,8 @@ MyAnimeList description is the default. This displays a bit nicer than Anilist b
 This is the description of the media you select. You can choose between Anilist or MyAnimeList description.
 
 ### Search
-![Search](./media-search.jpg)
+
+<img :src="isDark ? './media-search-dark.jpg' : './media-search-light.jpg'" />
 
 #### Search History Limit
 Select how many search terms you want to keep in memory.
@@ -86,7 +87,7 @@ This feature is permanently disabled on the store versions of Goraku. This is du
 [Play Store Policy (Android)](https://support.google.com/googleplay/android-developer/answer/9878810) | [App Store Policy (iOS)](https://developer.apple.com/app-store/review/guidelines/#safety)
 :::
 
-![NSFW](./media-nsfw.jpg)
+<img :src="isDark ? './media-nsfw-dark.jpg' : './media-nsfw-light.jpg'" />
 
 #### NSFW Toggle
 Toggle NSFW content on or off. This will either hide or allow all NSFW content.
@@ -102,14 +103,15 @@ Only applies to fan art because Anilist doesn't divide NSFW levels.
 This will blur NSFW content depending on the severity of the content.
 
 ### Tags
-![Tags](./media-tags.jpg)
+
+<img :src="isDark ? './media-tags-dark.jpg' : './media-tags-light.jpg'" />
 
 #### Tag Blacklist
 You can hide content that you don't want to see by adding tags to the blacklist. This will filter out any content that contains the tag.
 
 ### Media Tile
 
-![Media Tile](./media-tile.jpg)
+<img :src="isDark ? './media-tile-dark.jpg' : './media-tile-light.jpg'" />
 
 #### Layout
 Customize the look of the media cards that are seen on the explore tab and search screen.
@@ -121,7 +123,9 @@ Select the default score type that you want to see. This score will show on all 
 Select the range of scores for each color: red, yellow, and green. This will determine what color the score will be.
 
 ## Language
-![Language](./language.png)
+
+<img :src="isDark ? './language-dark.png' : './language-light.png'" />
 
 ## Notifications
-![Notifications](./notifications.jpg)
+
+<img :src="isDark ? './notifications-dark.png' : './notifications-light.png'" />
