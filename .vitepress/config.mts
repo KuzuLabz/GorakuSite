@@ -41,7 +41,7 @@ export default defineConfig({
         link: '/socials/'
       },
       {
-        text: '⚠️ Issues',
+        text: '⚠️ Issues / New Features',
         link: '/issues/'
       },
       {
