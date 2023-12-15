@@ -9,10 +9,6 @@ Some documentation is still being worked on. If you have any questions, ask us o
 ## Discovering Content
 There are tons of things to discover on Goraku. You'll be able to find anime, manga (from many origins), novels, characters, staff, and studios. You can also find and add your friends who are on Anilist.
 
-[Anime](../discover/anime/) | [Manga](../discover/manga/) | [Novels](../discover/novels/)  
-[Characters](../discover/characters/) | [Staff](../discover/staff/) | [Users](../discover/users/)  
-[Studios](../discover/studios/)  
-
 ## Barcode Scanning
 Goraku has a built-in barcode scanner that allows you to quickly lookup manga/novels.
 
