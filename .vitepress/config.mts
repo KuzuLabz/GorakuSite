@@ -19,7 +19,7 @@ export default defineConfig({
     },
 
     nav: [
-      { text: 'Download', items: [{ text: 'Android', link: '/download/#Android' }, { text: 'Releases', link: 'https://github.com/SmashinFries/CivitAI-RN/releases' }],  },
+      { text: 'Download', items: [{ text: 'Android', link: '/download/#Android' }, { text: 'Releases', link: 'https://github.com/KuzuLabz/GorakuSite/releases' }],  },
       { text: 'Features', link: '/features/overview/' },
     ],
     
@@ -75,9 +75,9 @@ export default defineConfig({
     },
     
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kuzulabz/goraku' },
+      { icon: 'github', link: 'https://github.com/KuzuLabz/GorakuSite' },
       { icon: 'instagram', link: 'https://instagram.com/kuzulabz' },
-      { icon: 'discord', link: 'https://discord.gg/6WTm3U5ACY' }
+      { icon: 'discord', link: 'https://discord.gg/QCMKqvBmBZ' }
     ]
   },
   vite: {
