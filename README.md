@@ -11,7 +11,7 @@
     <a title="GitHub downloads" href="https://github.com/KuzuLabz/GorakuSite/releases">
 		<img src="https://img.shields.io/github/downloads/KuzuLabz/GorakuSite/total?label=downloads&labelColor=27303D&color=0D1117&logo=github&logoColor=FFFFFF&style=for-the-badge">
 	</a>
-    <a title="Discord" href="https://github.com/KuzuLabz/GorakuSite/releases">
+    <a title="Discord" href="https://discord.gg/hcuJaQB6v3">
 		<img alt="Discord" src="https://img.shields.io/discord/1184992914330366044?style=for-the-badge&logo=discord">
 	</a>
 </p>
