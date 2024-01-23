@@ -5,7 +5,7 @@ import { URL, fileURLToPath } from "node:url"
 export default defineConfig({
   title: "Goraku",
   description: "Goraku - an anime/manga app with bonuses",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
   // locales: {
   //   root: {
   //     label: 'English',
@@ -33,20 +33,20 @@ export default defineConfig({
         link: '/roadmap/'
       },
       {
-        text: '📌 Sources',
-        link: '/sources/'
-      },
-      {
-        text: '🗨️ Socials',
-        link: '/socials/'
-      },
-      {
         text: '⚠️ Issues / New Features',
         link: '/issues/'
       },
       {
+        text: '📌 Sources',
+        link: '/sources/'
+      },
+      {
         text: '🪙 Sponsoring',
         link: '/sponsor/'
+      },
+      {
+        text: '🗨️ Discord',
+        link: '/socials/'
       },
       {
         text: '🎮 Features',
@@ -61,10 +61,8 @@ export default defineConfig({
           { text: 'Manga Updates', link: '/features/mangaupdates/' },
           { text: 'Fanart', link:'/features/fanart/'},
           { text: 'Music', link:'/features/music/'},
-          { text: 'News', link:'/features/news/'},
           { text: 'Calendar', link: '/features/calendar/' },
           { text: 'List', link: '/features/list/' },
-          { text: 'Profile', link: '/features/profile/' },
           { text: 'Customization', link: '/features/customization/' }
         ]
       }
