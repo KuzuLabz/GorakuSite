@@ -1,6 +1,6 @@
 # Sources
 
-Goraku uses many sources to provide the most data to you. Here are the APIs used:
+Goraku uses many sources to provide the most data to you.
 
 ## Anilist
 As Goraku is based on Anilist, the majority of the data comes from here. This includes anime, manga, novels, characters, staff, studios, and users. Everything user related is also handled by Anilist.
@@ -30,6 +30,23 @@ Manga Updates is a database for manga and novels. This is used to provide chapte
 ### Learn More
 [API Docs](https://api.mangaupdates.com/) | [MangaUpdates site](https://www.mangaupdates.com/)
 
+## AnimeThemes
+AnimeThemes is a database for anime OPs and EDs. This is used to provide the music videos and audio.
+
+### Related Features
+- [Music](../features/music/)
+
+### Learn More
+[API Docs](https://api-docs.animethemes.moe/) | [AnimeThemes site](https://animethemes.moe/)
+
+## Trace.moe
+Trace.moe is an image recognition API that is used to find anime from screenshots.
+
+### Related Features
+- [Anime Image Search](../features/discover/search/index.md#anime)
+
+### Learn More
+[API Docs](https://soruly.github.io/trace.moe-api/#/) | [Trace.moe site](https://trace.moe/)
 
 ## Google Books
 The Google Books API is used for ISBN code lookup. This finds the title of the series you scanned.
@@ -56,6 +73,6 @@ If you have any suggestions for cool APIs, please let us know on Discord.
 
 <a href="https://discord.gg/6WTm3U5ACY">
 
-![Discord](https://img.shields.io/discord/880593872013627452?style=for-the-badge&logo=discord)
+![Discord](https://img.shields.io/discord/1184992914330366044?style=for-the-badge&logo=discord)
 
 </a>

@@ -19,7 +19,6 @@ export default defineLoader({
 			owner: "KuzuLabz",
 			repo: "GorakuSite",
 		})
-		console.log('data:', main.author)
 		return {main} 
 	},
 })

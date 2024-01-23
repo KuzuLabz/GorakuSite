@@ -32,8 +32,8 @@ iOS is planned to be supported and is under development.
 
 ## Tablets
 
-Tablets aren't officially supported, but Goraku should still be useable. I am currently working on proper UI scaling for tablets.
+Tablets aren't officially supported, but Goraku should still be useable. We are currently working on proper UI scaling for tablets.
 
 ## Windows / MacOS
 
-Would be cool to support. Once all main features are added, this will be something I'll look into.
+Would be cool to support at some point.

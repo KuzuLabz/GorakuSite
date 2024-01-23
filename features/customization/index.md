@@ -1,12 +1,11 @@
+---
+outline: deep
+---
+
 <script setup>
 import { withBase, useData } from 'vitepress'
 
 const { isDark } = useData();
-console.log(isDark.value)
-
-const images = {
-    settings: isDark.value ? './settings-dark.png' : './settings-light.png',
-}
 
 </script>
 

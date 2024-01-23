@@ -1,3 +1,14 @@
+
+
+<script setup>
+import { withBase, useData } from 'vitepress'
+
+const { isDark } = useData();
+
+</script>
+
+
+
 # Media Info
 
 ## Titles
@@ -39,7 +50,16 @@ You can add a series to your list and favorites. Once added to your list, you ca
 
 | Add to Favorites / List             | Edit List Entry                 |
 | ----------------------------------- | ------------------------------- |
-| ![user-actions](./user-actions.png) | ![edit_entry](./edit_entry.png) |
+| ![user-actions](./actions-dark.png) | ![edit_entry](./edit_entry.png) |
+
+## Estimated Release Time
+View the estimated release time of a series.
+
+### Anime
+The episode release times are provided by [Anilist](./../../../sources/index.md#anilist) and are not estimates.
+
+### Manga
+The chapter release times are estimates based on the average time between chapter translations (sourced from [MangaUpdates](../../../sources/index.md#manga-updates)). 
 
 ## Quick Actions
 Quickly access the series characters, staff, music (if applicable), and news.
@@ -67,6 +87,10 @@ View all the details about a series such as the source, episodes/chapters/volume
 | --------------------------------- | ------------------------------------- |
 | ![details_mu1](./details_mu1.png) | ![media_details](./media_details.png) |
 
+## Studio / Producers
+View the other works of the studio/producer of a series.
+
+<img :src="isDark ? './studio-dark.png' : './studio-light.png'" />
 
 ## Characters / Staff
 Find all the documented characters and staff of a series.
@@ -80,6 +104,13 @@ You can also use the [quick actions](#quick-actions) to access the full list.
 | ------------------------------- | ---------------------------------- |
 | ![details_mu1](./char_list.png) | ![media_details](./staff_list.png) |
 
+
+## Reviews (beta)
+Read reviews of a series.
+
+::: tip 📌 Render Issues
+Anilist uses custom markdown for most text content. Unfortunately, we can't guarantee that all markdown content will render correctly. We added the option to switch between markdown and HTML rendering. Please try switching if you notice any issues.
+::: 
 
 ## Relations / Recommendations
 View the related series such as source, prequals, sequels, and spinoffs. You can also view the recommendations for a series.
