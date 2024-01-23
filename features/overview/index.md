@@ -26,11 +26,6 @@ With an Anilist account, you can view and manage your lists.
 
 [Learn More](../list/)
 
-## Profile
-When signed in to Anilist, you can view your activity, followers/following, stats, and more. You can also find and follow other users.
-
-[Learn More](../profile/)
-
 ## Fanart
 View art of your favorite waifu when you open a characters details
 
