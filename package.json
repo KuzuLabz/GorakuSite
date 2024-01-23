@@ -1,11 +1,11 @@
 {
-  "name": "GorakuSite",
+  "name": "goraku-site",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
     "stylus": "^0.62.0",
-    "vitepress": "^1.0.0-rc.31"
+    "vitepress": "^1.0.0-rc.40"
   },
   "scripts": {
     "docs:dev": "vitepress dev",
