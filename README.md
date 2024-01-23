@@ -27,4 +27,4 @@ You can download the latest version of Goraku [here](https://github.com/KuzuLabz
 <pre align="center">Copyright © 2023 KuzuLabz<br><br>This Source Code Form is subject to the terms of the Mozilla Public<br>License, v. 2.0. If a copy of the MPL was not distributed with this<br>file, You can obtain one at http://mozilla.org/MPL/2.0/.</pre>
 
 ## App License
-<pre align="center">The Goraku App is closed source.<br><br>Redistribution and commercial use is prohibited.</pre>
+<pre align="center">The Goraku App is closed source.<br><br>Redistribution and commercial use prohibited.</pre>
