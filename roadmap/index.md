@@ -7,9 +7,9 @@
 #### Enhancements / QoL
 | Status | Feature                   | Progress | Stage         |
 | :----: | :------------------------ | -------- | ------------- |
-|   ❌    | Full notification support | ⭐⭐⬛⬛     | `in progress` |
+|   ❌    | Full notification support | ⭐⭐⬛⬛     | `paused`      |
 |   ❌    | List/Favorites filtering  | ⭐⭐⬛⬛     | `in progress` |
-|   ❌    | Setup guide               | ⬛⬛⬛⬛     | `planned`     |
+|   ❌    | Setup guide               | ⭐⭐⬛⬛     | `in progress` |
 |   ❌    | Quick Actions             | ⬛⬛⬛⬛     | `planned`     |
 |   ❌    | Custom Anilist Lists      | ⬛⬛⬛⬛     | `planned`     |
 |   ❌    | Sharable media cards      | ⬛⬛⬛⬛     | `planned`     |
