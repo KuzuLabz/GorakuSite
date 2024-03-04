@@ -9,9 +9,9 @@
 | :----: | :------------------------ | -------- | ------------- |
 |   ❌    | Full notification support | ⭐⭐⬛⬛     | `paused`      |
 |   ❌    | List/Favorites filtering  | ⭐⭐⬛⬛     | `in progress` |
-|   ❌    | Setup guide               | ⭐⭐⬛⬛     | `in progress` |
+|   ✅    | Setup guide               | ⭐⭐⭐⭐     | `completed`   |
 |   ❌    | Quick Actions             | ⬛⬛⬛⬛     | `planned`     |
-|   ❌    | Custom Anilist Lists      | ⬛⬛⬛⬛     | `planned`     |
+|   ✅    | Custom Anilist Lists      | ⭐⭐⭐⭐     | `completed`   |
 |   ❌    | Sharable media cards      | ⬛⬛⬛⬛     | `planned`     |
 |   ❌    | Sharable character cards  | ⬛⬛⬛⬛     | `planned`     |
 |   ❌    | Support Anilist links     | ⬛⬛⬛⬛     | `planned`     |
@@ -23,7 +23,4 @@
 |   ❌    | SauceNao (search manga by image) | ⬛⬛⬛⬛     | `researching` |
 |   ❌    | Offline Waifu Recognition        | ⬛⬛⬛⬛     | `researching` |
 |   ❌    | Anilist Threads                  | ⬛⬛⬛⬛     | `undecided`   |
-|   ❌    | Offline anime music list         | ⬛⬛⬛⬛     | `undecided`   |
-|   ❌    | Offline fan art list             | ⬛⬛⬛⬛     | `undecided`   |
-|   ❌    | Anime OP/ED search               | ⬛⬛⬛⬛     | `undecided`   |
 |   ❌    | Leveling System                  | ⬛⬛⬛⬛     | `undecided`   |
