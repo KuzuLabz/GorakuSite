@@ -1,3 +1,3 @@
 # Sponsoring
 
-To be updated soon!
+If you like this project and want to support it, you can [sponsor me on GitHub](https://github.com/sponsors/KuzuLabz)!
