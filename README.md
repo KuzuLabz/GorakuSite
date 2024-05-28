@@ -1,7 +1,7 @@
 <p align="center">
 	<br>
 	<a href="goraku.kuzulabz.com">
-		<img src="./public/logo.png" width="100"/>
+		<img src="./public/banner.png" width="50%"/>
 	</a>
 </p>
 
