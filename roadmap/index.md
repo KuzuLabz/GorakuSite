@@ -1,31 +1,20 @@
 # Roadmap
 
-#### Main Features
-🎉 All main features are complete! 🎉
-
-
-#### Enhancements / QoL
-| Status | Feature                   | Progress | Stage         |
-| :----: | :------------------------ | -------- | ------------- |
-|   ❌    | Full notification support | ⭐⭐⬛⬛     | `paused`      |
-|   ❌    | List/Favorites filtering  | ⭐⭐⬛⬛     | `in progress` |
-|   ✅    | Setup guide               | ⭐⭐⭐⭐     | `completed`   |
-|   ❌    | Quick Actions             | ⬛⬛⬛⬛     | `planned`     |
-|   ✅    | Custom Anilist Lists      | ⭐⭐⭐⭐     | `completed`   |
-|   ❌    | Sharable media cards      | ⬛⬛⬛⬛     | `planned`     |
-|   ❌    | Sharable character cards  | ⬛⬛⬛⬛     | `planned`     |
-|   ❌    | Support Anilist links     | ⭐⭐⭐⬛     | `testing`     |
-
-#### Extras
-| Status | Feature                                                   | Progress | Stage         |
-| :----: | :-------------------------------------------------------- | -------- | ------------- |
-|   ✅    | Reviews                                                   | ⭐⭐⭐⭐     | `completed`   |
-|   ❌    | SauceNao (manga image search) <sup id="a1">[1](#f1)</sup> | ⬛⬛⬛⬛     | `researching` |
-|   ❌    | Offline Waifu Recognition  <sup id="a2">[2](#f2)</sup>    | ⭐⭐⬛⬛     | `staged`      |
-|   ❌    | Anilist Threads <sup id="a3">[3](#f3)</sup>               | ⬛⬛⬛⬛     | `undecided`   |
-|   ❌    | Leveling System                                           | ⬛⬛⬛⬛     | `undecided`   |
+## Update 1.4
+🎉 **Goraku will be open source starting with this update!** 🎉
+| Status | Feature                                                                                   |
+| :----: | :---------------------------------------------------------------------------------------- |
+|   ❌    | User Screens                                                                              |
+|   ❌    | Search manga by image (SauceNao) <sup id="a1">[1](#f1)</sup>                              |
+|   ✅    | AniCard - a customizable media card that can be shared                                    |
+|   ✅    | New WeebLab content                                                                       |
+|   ✅    | Optional service data (MAL, MangaUpdates, MangaDex) to allow faster load times            |
+|   ❌    | Quick Actions                                                                             |
+|   ❌    | Threads <sup id="a2">[2](#f2)</sup> (viewing only - for now 😅<sup id="a3">[3](#f3)</sup>) |
+|   ✅    | New media stats                                                                           |
+|   ✅    | Site stats                                                                                |
 
 ##### Notes
-> <sup id="f1">1</sup> SauceNao rarely gave me correct results so I'm not sure if it's worth implementing [⏎](#a1)  
-> <sup id="f2">2</sup> I would like to train my own model but I'm broke. I will likely use the same model (~100MB) as [WaifuTagger](https://github.com/KuzuLabz/WaifuTagger) [⏎](#a2)  
-> <sup id="f3">3</sup> Just like with reviews, thread posts uses Anilists custom markdown. This makes it more difficult to implement (not impossible). I'm looking into a more robust solution for this [⏎](#a3)
+> <sup id="f1">1</sup> SauceNao rarely gave me correct results but I'll add it anyways. [⏎](#a1)  
+> <sup id="f2">2</sup> Just like with reviews, thread posts uses AniLists custom markdown. This makes it "annoying" to implement. For now, I'm just using basic JS replace and regex to preprocess and [react-native-markdown-display](https://github.com/iamacup/react-native-markdown-display) for rendering. [⏎](#a2)  
+> <sup id="f3">3</sup> If I add thread inputs (like commenting / replying) then users will likely expect a similar editing experience to the AniList site. This feature would have to wait till after 1.4 because I have a feeling it'll take me a good while to make. [⏎](#a3)  
