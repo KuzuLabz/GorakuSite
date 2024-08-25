@@ -4,15 +4,15 @@
 🎉 **Goraku will be open source starting with this update!** 🎉
 | Status | Feature                                                                                   |
 | :----: | :---------------------------------------------------------------------------------------- |
-|   ❌    | User Screens                                                                              |
+|   ❌    | User screens (profile, favorites, list, etc)                                              |
 |   ❌    | Search manga by image (SauceNao) <sup id="a1">[1](#f1)</sup>                              |
 |   ✅    | AniCard - a customizable media card that can be shared                                    |
 |   ✅    | New WeebLab content                                                                       |
 |   ✅    | Optional service data (MAL, MangaUpdates, MangaDex) to allow faster load times            |
-|   ❌    | Quick Actions                                                                             |
-|   ❌    | Threads <sup id="a2">[2](#f2)</sup> (viewing only - for now 😅<sup id="a3">[3](#f3)</sup>) |
-|   ✅    | New media stats                                                                           |
-|   ✅    | Site stats                                                                                |
+|   ✅    | Quick Actions / View                                                                      |
+|   ✅    | Threads <sup id="a2">[2](#f2)</sup> (viewing only - for now 😅<sup id="a3">[3](#f3)</sup>) |
+|   ✅    | Statistics Overhaul                                                                       |
+|   ✅    | Site statistics                                                                           |
 
 ##### Notes
 > <sup id="f1">1</sup> SauceNao rarely gave me correct results but I'll add it anyways. [⏎](#a1)  
