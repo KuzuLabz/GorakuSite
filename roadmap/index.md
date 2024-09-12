@@ -13,6 +13,8 @@
 |   ✅    | Threads <sup id="a2">[2](#f2)</sup> (viewing only - for now 😅<sup id="a3">[3](#f3)</sup>) |
 |   ✅    | Statistics Overhaul                                                                       |
 |   ✅    | Site statistics                                                                           |
+|   ✅    | AMOLED Dark Mode (pure black)                                                             |
+
 
 ##### Notes
 > <sup id="f1">1</sup> SauceNao rarely gave me correct results but I'll add it anyways. [⏎](#a1)  
