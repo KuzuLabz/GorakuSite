@@ -6,7 +6,7 @@ This will likely be the last large update. Future updates will only include 1-2 
 
 | Status | Feature                                                                                   |
 | :----: | :---------------------------------------------------------------------------------------- |
-|   ❌    | Notifications Overhaul                                                                    |
+|   ✅    | Notifications Overhaul                                                                    |
 |   ❌    | User screens (profile, favorites, list, etc)                                              |
 |   🔄    | Bug fixes and minor (but fun) additions                                                   |
 |   ✅    | Search overhaul (search by all, anime/manga, characters, staff, studios, users)           |
@@ -25,3 +25,13 @@ This will likely be the last large update. Future updates will only include 1-2 
 > <sup id="f1">1</sup> SauceNao rarely gave me correct results but I'll add it anyways. [⏎](#a1)  
 > <sup id="f2">2</sup> Just like with reviews, thread posts uses AniLists custom markdown. This makes it "annoying" to implement. For now, I'm using regex and cheerio to preprocess the converted html for rendering. [⏎](#a2)  
 > <sup id="f3">3</sup> If I add thread inputs (like commenting / replying) then users will likely expect a similar editing experience to the AniList site. This feature would have to wait till after 1.4. [⏎](#a3)  
+
+
+## Update 1.5 and beyond
+Planned features:
+- Android widgets (airing schedule, list, stats)
+- Desktop build (Windows, MacOS, Linux)
+- Thread creation / commenting
+- Leveling system based on Anilist stats
+- More themes and customization options
+- Plex integration?
