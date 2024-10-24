@@ -1,5 +1,6 @@
 # Roadmap
 
+**Currently testing!**
 ## Update 1.4
 🎉 **Goraku will be open source starting with this update!** 🎉  
 This will likely be the last large update. Future updates will only include 1-2 new features at a time.
@@ -7,7 +8,7 @@ This will likely be the last large update. Future updates will only include 1-2 
 | Status | Feature                                                                                   |
 | :----: | :---------------------------------------------------------------------------------------- |
 |   ✅    | Notifications Overhaul                                                                    |
-|   ❌    | User screens (profile, favorites, list, etc)                                              |
+|   ✅    | User screens (profile, favorites, list, etc)                                              |
 |   🔄    | Bug fixes and minor (but fun) additions                                                   |
 |   ✅    | Search overhaul (search by all, anime/manga, characters, staff, studios, users)           |
 |   ✅    | Search manga by image (SauceNao) <sup id="a1">[1](#f1)</sup>                              |
@@ -29,6 +30,7 @@ This will likely be the last large update. Future updates will only include 1-2 
 
 ## Update 1.5 and beyond
 Planned features:
+- Calendar week selection
 - Android widgets (airing schedule, list, stats)
 - Desktop build (Windows, MacOS, Linux)
 - Thread creation / commenting
