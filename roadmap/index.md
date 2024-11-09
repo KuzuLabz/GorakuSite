@@ -1,6 +1,7 @@
 # Roadmap
 
-**Currently testing!**
+**Released!**  
+Just need to clean up the code before open-sourcing 🫡
 ## Update 1.4
 🎉 **Goraku will be open source starting with this update!** 🎉  
 This will likely be the last large update. Future updates will only include 1-2 new features at a time.
@@ -9,7 +10,7 @@ This will likely be the last large update. Future updates will only include 1-2 
 | :----: | :---------------------------------------------------------------------------------------- |
 |   ✅    | Notifications Overhaul                                                                    |
 |   ✅    | User screens (profile, favorites, list, etc)                                              |
-|   🔄    | Bug fixes and minor (but fun) additions                                                   |
+|   ✅    | Bug fixes and minor (but fun) additions                                                   |
 |   ✅    | Search overhaul (search by all, anime/manga, characters, staff, studios, users)           |
 |   ✅    | Search manga by image (SauceNao) <sup id="a1">[1](#f1)</sup>                              |
 |   ✅    | AniCard - a customizable media card that can be shared                                    |

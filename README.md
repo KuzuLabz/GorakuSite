@@ -9,7 +9,7 @@
 
 <p align="center">
     <a title="GitHub downloads" href="https://github.com/KuzuLabz/GorakuSite/releases">
-		<img src="https://img.shields.io/github/downloads/KuzuLabz/GorakuSite/latest/total?style=for-the-badge&logo=github&logoColor=FFFFFF&label=v1.3%20Downloads&labelColor=27303D&color=0D1117">
+		<img src="https://img.shields.io/github/downloads/KuzuLabz/GorakuSite/latest/total?style=for-the-badge&logo=github&logoColor=FFFFFF&label=v1.4%20Downloads&labelColor=27303D&color=0D1117">
 	</a>
     <a title="Discord" href="https://discord.gg/hcuJaQB6v3">
 		<img alt="Discord" src="https://img.shields.io/discord/1184992914330366044?style=for-the-badge&logo=discord">
