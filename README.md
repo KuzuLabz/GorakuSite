@@ -16,8 +16,10 @@
 	</a>
 </p>
 
-## ⚠️ Upcoming version 1.4
-A new update is coming soon! View the [roadmap](https://goraku.kuzulabz.com/roadmap/) to learn more.
+## 🎉 Version 1.4 is now available!
+I recommend deleting 1.3 first before downloading. The new version will show up as a new app.
+
+This shouldn't happen in future updates. Sorry for the inconvenience! 
 
 ## Getting Started
 Everything you need to know is on the website! Check it out [here](https://goraku.kuzulabz.com).
