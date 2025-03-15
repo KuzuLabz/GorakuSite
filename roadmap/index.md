@@ -1,23 +1,19 @@
 # Roadmap
 
-## Update 1.4.5
+## Update 1.5
 🎉 **[Goraku](https://github.com/SmashinFries/GorakuPlus) is now open source!** 🎉  
 
-| Status | Feature                                               |
-| :----: | :---------------------------------------------------- |
-|   ✅    | Calendar Overhaul                                     |
-|   ✅    | Explore drawer for quick access to weeb lab and links |
-|   ✅    | NekoAPI fix                                           |
-|   ✅    | Search filter sheet fix                               |
-|   ➖    | Bug fixes and an easter egg                           |
+| Status | Feature                                |
+| :----: | :------------------------------------- |
+|   ❌    | Offline user list                      |
+|   ❌    | Leveling system based on Anilist stats |
+|   ❌    | Android widgets                        |
 
+## 🔬 Research Bench 🧪
 
-## Update 1.5 and beyond
-Planned features:
-- SQLite database for offline list viewing
-- Android widgets (airing schedule, list, stats)
-- Desktop build (Windows, MacOS, Linux)
-- Thread creation / commenting
-- Leveling system based on Anilist stats
-- More themes and customization options
-- Plex / Jellyfin integration?
+|                Feature                |                                 Notes                                  |
+| :-----------------------------------: | :--------------------------------------------------------------------: |
+|       AI (character detection)        | If I manage to train my own model / new mobile friendly model releases |
+|     Thread creation / commenting      |             Need help with implementing AniList markdown!              |
+|      Plex / Jellyfin integration      |              Jellyfin has an API - not so sure about Plex              |
+| Desktop build (Windows, MacOS, Linux) |      Considering using Tauri. This will likely be worked on last       |
