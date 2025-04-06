@@ -1,11 +1,11 @@
 # Roadmap
 
 ## Update 1.5
-🎉 **[Goraku](https://github.com/SmashinFries/GorakuPlus) is now open source!** 🎉  
 
 | Status | Feature                                                                                             |
 | :----: | :-------------------------------------------------------------------------------------------------- |
 |   ❗➖   | [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) support! (adding manga to Suwayomi library) |
+|   ❌    | [Overseerr](https://github.com/sct/overseerr) support! (requesting anime)                           |
 |   ❌    | Offline user list                                                                                   |
 |   ❌    | Leveling system based on Anilist stats                                                              |
 |   ➖    | Android widgets                                                                                     |
