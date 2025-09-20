@@ -5,7 +5,7 @@
 | Status | Feature                                                                                             |
 | :----: | :-------------------------------------------------------------------------------------------------- |
 |   ✅    | [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) support! (adding manga to Suwayomi library) |
-|   ❗➖   | Expo SDK 53 migration (possible performance increase)                                               |
+|   ❗➖   | Expo SDK ~~53~~ 54 migration (taking longer than usual due to new bugs)                             |
 |   ❌    | [Overseerr](https://github.com/sct/overseerr) support!                                              |
 |   ❌    | Material You components (switch, slider, etc)                                                       |
 |   ❌    | Offline user list with sync and export                                                              |
