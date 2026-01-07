@@ -5,12 +5,13 @@
 | Status | Feature                                                                                             |
 | :----: | :-------------------------------------------------------------------------------------------------- |
 |   ✅    | [Suwayomi](https://github.com/Suwayomi/Suwayomi-Server) support! (adding manga to Suwayomi library) |
-|   ✅   | Expo SDK 54 migration                             |
-|   ➖    | [Sonarr](https://sonarr.tv/) and [Radarr](https://radarr.video/) support!                                              |
-|   ➖    | Native Material You components (switch, slider, etc)                                                       |
-|   ➖    | Offline user list with sync and export                                                              |
+|   ✅    | Expo SDK 54 migration                                                                               |
+|   ➖    | [Sonarr](https://sonarr.tv/) and [Radarr](https://radarr.video/) support!                           |
+|   ➖    | Native Material You components (switch, slider, etc)                                                |
+|   ➖    | Offline-first lists / favorites (no account needed)                                                 |
+|   ❌    | MAL / Kitsu sync                                                                                    |
 |   ❌    | Leveling system based on Anilist stats                                                              |
-|   ➖    | Android widgets                                                                                     |
+|   ❌    | Android widgets                                                                                     |
 
 |    ❗     |      ❌      |      ➖      | ✅         |
 | :------: | :---------: | :---------: | :-------- |
